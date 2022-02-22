@@ -5,6 +5,12 @@
   box-sizing: border-box;
 }
 
+.pokemon-selector {
+  display: flex;
+  width: 725px;
+  height: 350px;
+}
+
 .pokedex-body {
   display: flex;
   justify-content: space-evenly;
