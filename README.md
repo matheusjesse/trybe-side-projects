@@ -46,8 +46,6 @@ Extenção do Google Chrome para visualizar o APP nas dimensões do celular [Mob
 
 Nesse projeto, foi usado:
 
-- **Redux** para gerenciar estado
-- biblioteca **React-Redux**
 - **Context API** do React para gerenciar estado
 - React Hook **useState**
 - React Hook **useContext**
